@@ -7,5 +7,7 @@ This basic set of shell files is a first attempt at writing basic shell scripts 
 ## Installation and use
 
 `git clone https://github.com/DAVE4547/setup.git`
+
 `cd setup`
+
 `bash setup.sh`
